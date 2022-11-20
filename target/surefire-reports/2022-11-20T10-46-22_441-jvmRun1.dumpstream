@@ -1,0 +1,216 @@
+# Created at 2022-11-20T10:46:51.362
+Unexpected IOException with stream: 2022-11-20 10:46:51.362  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 2022-11-20 09:46:51+00:00 [Note] [Entrypoint]: Database files initialized
+
+
+# Created at 2022-11-20T10:46:51.385
+Unexpected IOException with stream: 2022-11-20 10:46:51.384  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 2022-11-20 09:46:51+00:00 [Note] [Entrypoint]: Starting temporary server
+
+
+# Created at 2022-11-20T10:46:51.843
+Unexpected IOException with stream: 2022-11-20 10:46:51.843  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:51.774068Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.28) starting as process 154
+
+
+# Created at 2022-11-20T10:46:51.896
+Unexpected IOException with stream: 2022-11-20 10:46:51.896  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:51.894304Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+
+
+# Created at 2022-11-20T10:46:51.927
+Unexpected IOException with stream: 2022-11-20 10:46:51.927  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:51.926004Z 1 [ERROR] [MY-012585] [InnoDB] Linux Native AIO interface is not supported on this platform. Please check your OS documentation and install appropriate binary of InnoDB.
+
+
+# Created at 2022-11-20T10:46:51.928
+Unexpected IOException with stream: 2022-11-20 10:46:51.927  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:51.926437Z 1 [Warning] [MY-012654] [InnoDB] Linux Native AIO disabled.
+
+
+# Created at 2022-11-20T10:46:52.165
+Unexpected IOException with stream: 2022-11-20 10:46:52.164  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:52.164235Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+
+
+# Created at 2022-11-20T10:46:53.794
+Unexpected IOException with stream: 2022-11-20 10:46:53.793  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:53.793108Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+
+
+# Created at 2022-11-20T10:46:53.797
+Unexpected IOException with stream: 2022-11-20 10:46:53.796  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:53.796377Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+
+
+# Created at 2022-11-20T10:46:53.801
+Unexpected IOException with stream: 2022-11-20 10:46:53.801  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:53.800913Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+
+
+# Created at 2022-11-20T10:46:54.001
+Unexpected IOException with stream: 2022-11-20 10:46:54.001  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:54.000473Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: /var/run/mysqld/mysqlx.sock
+
+
+# Created at 2022-11-20T10:46:54.005
+Unexpected IOException with stream: 2022-11-20 10:46:54.005  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:46:54.004875Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.28'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Community Server - GPL.
+
+
+# Created at 2022-11-20T10:46:54.050
+Unexpected IOException with stream: 2022-11-20 10:46:54.049  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 2022-11-20 09:46:54+00:00 [Note] [Entrypoint]: Temporary server started.
+
+
+# Created at 2022-11-20T10:46:58.404
+Unexpected IOException with stream: 2022-11-20 10:46:58.403  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: Warning: Unable to load '/usr/share/zoneinfo/iso3166.tab' as time zone. Skipping it.
+
+
+# Created at 2022-11-20T10:46:58.404
+Unexpected IOException with stream: 2022-11-20 10:46:58.404  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: Warning: Unable to load '/usr/share/zoneinfo/leap-seconds.list' as time zone. Skipping it.
+
+
+# Created at 2022-11-20T10:47:07.188
+Unexpected IOException with stream: 2022-11-20 10:47:07.188  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: Warning: Unable to load '/usr/share/zoneinfo/zone.tab' as time zone. Skipping it.
+
+
+# Created at 2022-11-20T10:47:07.189
+Unexpected IOException with stream: 2022-11-20 10:47:07.189  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: Warning: Unable to load '/usr/share/zoneinfo/zone1970.tab' as time zone. Skipping it.
+
+
+# Created at 2022-11-20T10:47:08.022
+Unexpected IOException with stream: 2022-11-20 10:47:08.022  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 2022-11-20 09:47:08+00:00 [Note] [Entrypoint]: Creating database file_upload
+
+
+# Created at 2022-11-20T10:47:08.168
+Unexpected IOException with stream: 2022-11-20 10:47:08.167  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 2022-11-20 09:47:08+00:00 [Note] [Entrypoint]: Creating user username
+
+
+# Created at 2022-11-20T10:47:08.313
+Unexpected IOException with stream: 2022-11-20 10:47:08.312  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 2022-11-20 09:47:08+00:00 [Note] [Entrypoint]: Giving user username access to schema file_upload
+
+
+# Created at 2022-11-20T10:47:08.401
+Unexpected IOException with stream: 2022-11-20 10:47:08.400  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 
+
+
+# Created at 2022-11-20T10:47:08.425
+Unexpected IOException with stream: 2022-11-20 10:47:08.424  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 2022-11-20 09:47:08+00:00 [Note] [Entrypoint]: Stopping temporary server
+
+
+# Created at 2022-11-20T10:47:08.496
+Unexpected IOException with stream: 2022-11-20 10:47:08.495  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:08.494861Z 13 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.28).
+
+
+# Created at 2022-11-20T10:47:08.908
+Unexpected IOException with stream: 2022-11-20 10:47:08.908  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:08.907581Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.28)  MySQL Community Server - GPL.
+
+
+# Created at 2022-11-20T10:47:09.523
+Unexpected IOException with stream: 2022-11-20 10:47:09.523  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 2022-11-20 09:47:09+00:00 [Note] [Entrypoint]: Temporary server stopped
+
+
+# Created at 2022-11-20T10:47:09.523
+Unexpected IOException with stream: 2022-11-20 10:47:09.523  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 
+
+
+# Created at 2022-11-20T10:47:09.544
+Unexpected IOException with stream: 2022-11-20 10:47:09.544  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 2022-11-20 09:47:09+00:00 [Note] [Entrypoint]: MySQL init process done. Ready for start up.
+
+
+# Created at 2022-11-20T10:47:09.545
+Unexpected IOException with stream: 2022-11-20 10:47:09.545  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDOUT: 
+
+
+# Created at 2022-11-20T10:47:09.998
+Unexpected IOException with stream: 2022-11-20 10:47:09.998  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:09.938089Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.28) starting as process 1
+
+
+# Created at 2022-11-20T10:47:10.050
+Unexpected IOException with stream: 2022-11-20 10:47:10.050  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:10.048300Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+
+
+# Created at 2022-11-20T10:47:10.078
+Unexpected IOException with stream: 2022-11-20 10:47:10.077  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:10.077117Z 1 [ERROR] [MY-012585] [InnoDB] Linux Native AIO interface is not supported on this platform. Please check your OS documentation and install appropriate binary of InnoDB.
+
+
+# Created at 2022-11-20T10:47:10.078
+Unexpected IOException with stream: 2022-11-20 10:47:10.078  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:10.077488Z 1 [Warning] [MY-012654] [InnoDB] Linux Native AIO disabled.
+
+
+# Created at 2022-11-20T10:47:10.374
+Unexpected IOException with stream: 2022-11-20 10:47:10.374  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:10.373484Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+
+
+# Created at 2022-11-20T10:47:11.732
+Unexpected IOException with stream: 2022-11-20 10:47:11.732  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:11.731381Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+
+
+# Created at 2022-11-20T10:47:11.733
+Unexpected IOException with stream: 2022-11-20 10:47:11.733  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:11.732098Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+
+
+# Created at 2022-11-20T10:47:11.739
+Unexpected IOException with stream: 2022-11-20 10:47:11.739  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:11.738478Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+
+
+# Created at 2022-11-20T10:47:11.960
+Unexpected IOException with stream: 2022-11-20 10:47:11.960  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:11.959552Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+
+
+# Created at 2022-11-20T10:47:11.962
+Unexpected IOException with stream: 2022-11-20 10:47:11.962  INFO 8672 --- [tream-765294178] eConfig$$EnhancerBySpringCGLIB$$5a7ccfaa : STDERR: 2022-11-20T09:47:11.961567Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.28'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
+
+
+# Created at 2022-11-20T10:47:12.073
+Unexpected IOException with stream: 2022-11-20 10:47:12.073  INFO 8672 --- [           main] docker[mysql:8.0]                        : Container is started (JDBC URL: jdbc:mysql://localhost:55011/file_upload?createDatabaseIfNotExist=true&serverTimezone=UTC)
+
+
+# Created at 2022-11-20T10:47:12.073
+Unexpected IOException with stream: 2022-11-20 10:47:12.073  INFO 8672 --- [           main] docker[mysql:8.0]                        : Container mysql:8.0 started in PT46.82326S
+
+
+# Created at 2022-11-20T10:47:12.165
+Unexpected IOException with stream: 2022-11-20 10:47:12.165  INFO 8672 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+
+
+# Created at 2022-11-20T10:47:12.279
+Unexpected IOException with stream: 2022-11-20 10:47:12.279  INFO 8672 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+
+
+# Created at 2022-11-20T10:47:13.340
+Unexpected IOException with stream: Running Changeset: db/db.file-upload-changelog.xml::1619276720000-1::dduru (generated)
+
+
+# Created at 2022-11-20T10:47:13.438
+Unexpected IOException with stream: Running Changeset: db/db.file-upload-changelog.xml::1634246089072-4::dduru (generated)
+
+
+# Created at 2022-11-20T10:47:13.657
+Unexpected IOException with stream: 2022-11-20 10:47:13.657  INFO 8672 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+
+
+# Created at 2022-11-20T10:47:13.692
+Unexpected IOException with stream: 2022-11-20 10:47:13.692  INFO 8672 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.10.Final
+
+
+# Created at 2022-11-20T10:47:13.770
+Unexpected IOException with stream: 2022-11-20 10:47:13.769  INFO 8672 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+
+
+# Created at 2022-11-20T10:47:13.826
+Unexpected IOException with stream: 2022-11-20 10:47:13.826  INFO 8672 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+
+
+# Created at 2022-11-20T10:47:14.113
+Unexpected IOException with stream: 2022-11-20 10:47:14.112  INFO 8672 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+
+
+# Created at 2022-11-20T10:47:14.117
+Unexpected IOException with stream: 2022-11-20 10:47:14.116  INFO 8672 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2022-11-20T10:47:14.124
+Unexpected IOException with stream: 2022-11-20 10:47:14.124  WARN 8672 --- [           main] o.s.w.c.s.GenericWebApplicationContext   : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fileUploadProvider' defined in file [/Users/dduru/IdeaProjects/Private/libs/file-uploader-jpa/target/test-classes/com/julianduru/fileuploader/data/FileUploadProvider.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jpaFileUploadRepositoryImpl' defined in file [/Users/dduru/IdeaProjects/Private/libs/file-uploader-jpa/target/classes/com/julianduru/fileuploader/module/JpaFileUploadRepositoryImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'jpaFileUploadRepositoryImpl': Requested bean is currently in creation: Is there an unresolvable circular reference?
+
+
+# Created at 2022-11-20T10:47:14.124
+Unexpected IOException with stream: 2022-11-20 10:47:14.124  INFO 8672 --- [           main] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2022-11-20T10:47:14.126
+Unexpected IOException with stream: 2022-11-20 10:47:14.126  INFO 8672 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+
+
+# Created at 2022-11-20T10:47:14.143
+Unexpected IOException with stream: 2022-11-20 10:47:14.143  INFO 8672 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+
+

@@ -1,0 +1,11 @@
+com/julianduru/fileuploader/entities/FileUpload.class
+com/julianduru/fileuploader/jpa/JpaFileUploadRepository.class
+com/julianduru/fileuploader/api/UploadResponse.class
+com/julianduru/fileuploader/module/JpaFileUploadRepositoryImpl.class
+com/julianduru/fileuploader/exception/ReferenceNotFoundException.class
+com/julianduru/fileuploader/api/FileData$FileDataBuilder.class
+com/julianduru/fileuploader/JpaFileUploaderAutoConfiguration.class
+com/julianduru/fileuploader/exception/UploaderException.class
+com/julianduru/fileuploader/util/ZonedDateTimeConverter.class
+com/julianduru/fileuploader/api/FileData.class
+com/julianduru/fileuploader/api/UploadResponse$UploadResponseBuilder.class

@@ -1,0 +1,11 @@
+com/julianduru/fileuploader/controller/UploadControllerTest.class
+com/julianduru/fileuploader/config/TestConfig.class
+com/julianduru/fileuploader/BaseServiceIntegrationTest.class
+com/julianduru/fileuploader/BaseControllerTest.class
+com/julianduru/fileuploader/UploadTest.class
+com/julianduru/fileuploader/config/TestDataSourceConfig.class
+com/julianduru/fileuploader/controller/FileControllerTest.class
+com/julianduru/fileuploader/providers/cloudinary/CloudinaryFileUploaderTest.class
+com/julianduru/fileuploader/data/FileUploadProvider.class
+com/julianduru/fileuploader/FileUploaderApplicationTests.class
+com/julianduru/fileuploader/providers/aws/AWSFileUploaderTest.class
